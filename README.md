@@ -14,7 +14,7 @@ En este reto debes usar la “Búsqueda lineal”, para encontrar un número en 
 ## Ejemplo
 
 
-```array = [1,9,2,8,3,7,4,6,7}```
+```array = [1,9,2,8,3,7,4,6,7]```
 
 number = 4
 Se debe tomar la variable array y con el método de “Búsqueda Lineal”, se debe encontrar el número designado. Y como dato de respuesta, se debe enviar la posición del mismo.
